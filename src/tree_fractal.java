@@ -15,12 +15,6 @@ import javax.swing.JTextField;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-/*Frank C
- * 
- */
-
-
-
 public class tree_fractal {
 
 	public static void main(String[] args) {
